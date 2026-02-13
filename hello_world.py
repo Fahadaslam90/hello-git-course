@@ -1,1 +1,1 @@
-Printf(HelloWorld!)
+print("Hello World!")
